@@ -3,6 +3,10 @@
 - 👀 I’m interested in Pentesting and Reversing
 - 🌱 I’m currently learning Cibersecurity
 * * *
-Lenguagues
+
+Systems
 * * *
-
+
+languages
+* * *
+
